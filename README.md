@@ -14,11 +14,13 @@ alfred-resize-window-width
 ![alt text][demo]
 
 ## Install & Setup
-- Download the [workflow](https://github.com/glnster/alfred-resize-window-width/releases/download/v1.0/Resize.Window.Width.alfredworkflow) and double-click it to install
+- Download the [workflow](https://github.com/glnster/alfred-resize-window-width/releases) and double-click it bring it into Alfred
 - In Alfred's config go to the Workflows tab and select Resize Window Width
 - double-click any of the hotkeys to change the key combos to whatever you prefer
 - double-click 'Run NSAppleScript' to set pixel-specific widths to the hotkeys
+
 ![alt text][scrn2]
+
 ![alt text][scrn1]
 
 [demo]: ./demo/alfred-resizewindowwidth-demo.mov.gif "In action"
