@@ -1,7 +1,7 @@
 alfred-resize-window-width
 ==========================
 
-Alfred hotkey workflow to resize window to various pixel-specific width.
+[Alfred 2](http://www.alfredapp.com/) hotkey workflow to resize window to pixel-specific widths.
 
 ## Hotkeys
 - ⌘+⌥+8 = 400px
